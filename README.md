@@ -1,11 +1,14 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Gaurav%20Singh%20Tomar&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source%20Contributor&descSize=16&descAlignY=60&descColor=a78bfa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Gaurav%20Singh%20Tomar&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20Open%20Source%20Contributor&descSize=16&descAlignY=60&descColor=a78bfa&animation=fadeIn" width="100%"/>
+
+<!-- Profile Picture -->
+<img src="https://avatars.githubusercontent.com/u/217980881?v=4" width="130" style="border-radius:50%; border: 3px solid #a78bfa; margin-top: 10px;"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;🤖+AI+%26+ML+Engineer;☕+Java+%7C+Spring+Boot+Enthusiast;🐍+Python+Automation+Expert;📱+Android+App+Developer;🌐+Building+Impactful+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;📊+Data+Analyst+%26+Visualizer;🤖+AI+%26+ML+Engineer;☕+Java+%7C+Spring+Boot+Enthusiast;🐍+Python+%26+Pandas+Expert;📱+Android+App+Developer;🌐+Building+Impactful+Solutions" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,12 +27,19 @@
 ```yaml
 name        : Gaurav Singh Tomar
 location    : Amarkantak, Madhya Pradesh, India 🇮🇳
-university  : Indira Gandhi National Tribal University
-role        : Full Stack Developer & AI Enthusiast
-focus       : Building scalable web apps, AI platforms & mobile solutions
+university  : Indira Gandhi National Tribal University (IGNTU)
+role        : Full Stack Developer & Data Analyst
+bio         : Passionate developer & data analyst who turns raw data
+              and ideas into real-world solutions — from AI-powered
+              recruitment platforms to campus vehicle rental systems.
+              I love solving problems at the intersection of data,
+              software engineering & AI.
+tech_focus  : Python · Pandas · NumPy · SQL · Power BI · Matplotlib
+              Java · Spring Boot · React · FastAPI · PyTorch
 internship  : Skill Nexus — Python Programming
-currently   : Learning DSA, System Design & Cloud Architecture
+currently   : Learning Data Science, DSA & Cloud Architecture
 open_to     : Internships, Collaborations & Open Source
+email       : gsnghtmr21@gmail.com
 ```
 
 ---
@@ -183,12 +193,18 @@ open_to     : Internships, Collaborations & Open Source
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tmrgrv21)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tmrgrv21)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravsinghtomar21@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-singh-tomar-a9aa5a343)
+[![Twitter/X](https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/GauravSing11740)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gsnghtmr21@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://vehicle-rentx.vercel.app)
 
 <br/>
 
-> 💡 *"Code is not just lines — it's the language of solutions."*
+<img src="https://avatars.githubusercontent.com/u/217980881?v=4" width="80" style="border-radius:50%;"/>
+
+> 💡 *"I don't just write code — I build solutions that make a difference."*
+
+📬 **Reach me at:** [gsnghtmr21@gmail.com](mailto:gsnghtmr21@gmail.com)
 
 </div>
 
